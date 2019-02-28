@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #500000 !important;
+    
+}
+
+.navbar-brand {
+    font-family: 'Rubik', sans-serif !important;
+    color: #ffffff !important;
+    letter-spacing: 0.2em;
+    
+}
+.nav-link {
+
+    color: #ffffff !important;
+}
+
